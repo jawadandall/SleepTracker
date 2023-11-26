@@ -4,7 +4,7 @@ Submitted by: **Jawad Andall**
 
 **Sleep Tracker** is a health metrics app that allows users to keep track of their hours and quality of sleep by date
 
-Time spent: **20** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](https://i.imgur.com/nD9NySR.gif)
+![Video Walkthrough](https://i.imgur.com/Eqt4OGN.gif)
 
 
 GIF created with ... 
